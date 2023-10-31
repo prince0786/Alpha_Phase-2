@@ -1,6 +1,6 @@
-# Typing Practice VS Code Plugin
+# Typing Tutor VS Code Plugin
 
-The Typing Practice VS Code Plugin is a handy extension for Visual Studio Code that allows users to improve their typing skills while coding. With this plugin, you can practice typing random words or sentences and receive feedback on your typing speed and accuracy, making it an excellent tool for developers looking to boost their typing skills.
+The Typing Tutor VS Code Plugin is a handy extension for Visual Studio Code that allows users to improve their typing skills while coding. With this plugin, you can practice typing random words or sentences and receive feedback on your typing speed and accuracy, making it an excellent tool for developers looking to boost their typing skills.
 
 ## Features
 
